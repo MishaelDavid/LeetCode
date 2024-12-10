@@ -1,5 +1,10 @@
 class Solution {
     public boolean increasingTriplet(int[] nums) {
+
+        if(nums.length<3){
+            return false;
+        }
+
         int min1=Integer.MAX_VALUE;
         int min2=Integer.MAX_VALUE;
         for(int n=0;n<nums.length;n++){
