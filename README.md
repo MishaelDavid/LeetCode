@@ -26,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/MishaelDavid/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/MishaelDavid/LeetCode/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
