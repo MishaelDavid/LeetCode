@@ -9,6 +9,7 @@ A collection of LeetCode questions
 | [0151-reverse-words-in-a-string](https://github.com/MishaelDavid/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MishaelDavid/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MishaelDavid/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/MishaelDavid/LeetCode/tree/master/0443-string-compression) |
 ## String
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions
 | [0151-reverse-words-in-a-string](https://github.com/MishaelDavid/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MishaelDavid/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/MishaelDavid/LeetCode/tree/master/0409-longest-palindrome) |
+| [0443-string-compression](https://github.com/MishaelDavid/LeetCode/tree/master/0443-string-compression) |
 ## Array
 |  |
 | ------- |
